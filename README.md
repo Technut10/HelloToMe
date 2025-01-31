@@ -1,2 +1,2 @@
 # HelloToMe
-My first android app for mobile development course.
+My first Android app
